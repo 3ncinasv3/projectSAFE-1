@@ -8,4 +8,4 @@ Bringing high-performance racing to the palm of your hands; Using only your smar
 
 // This repo *currently* is for ESP32- related ARDUINO IDE and ESP-IDF codes 
 
-// https://github.com/3ncinasv3/projectSAFE-1
+// https://safeone.design
